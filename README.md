@@ -43,30 +43,36 @@ Probability:
 - Classical definition of probability
 - Empirical definition of probability
 - Theoretical definition of probability
+
 Permutation:
 - Definition of permutation
 - Permutation formula
 - Permutation with repetition
 - Permutation without repetition
 - Example of permutation
+
 Combination:
 - Definition of combination
 - Combination formula
 - Combination with repetition
 - Combination without repetition
 - Example of combination
+
 Conditional Probability:
 - Definition of conditional probability
 - Formula for conditional probability
 - Example of conditional probability
+
 Joint Probability:
 - Definition of joint probability
 - Formula for joint probability
 - Example of joint probability
+
 Bayes' Theorem:
 - Definition of Bayes' Theorem
 - Formula for Bayes' Theorem
 - Example of Bayes' Theorem
+
 Law of Total Probability:
 - Definition of the law of total probability
 - Formula for the law of total probability
